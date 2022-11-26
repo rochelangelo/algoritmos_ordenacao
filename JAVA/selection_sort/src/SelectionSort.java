@@ -33,7 +33,7 @@ public class SelectionSort {
         }
         return vetor;
     }
-    
+
     public void imprimeVetor(int[] vetor, int flag){
         if(flag == 1){
             System.out.println("\nVetor nao Ordenado!");
