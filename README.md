@@ -5,6 +5,7 @@
 <h2> JAVA </h2>
 <ul>
   <li><a href="https://github.com/rochelangelo/algoritmos_ordenacao/tree/main/JAVA/selection_sort">Selection Sort</a></li>
+  <li><a href="https://github.com/rochelangelo/algoritmos_ordenacao/tree/main/JAVA/bubble_sort">Bubble Sort</a></li>
 </ul>
 <h2> C# </h2>
 <ul>
